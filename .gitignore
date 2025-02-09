@@ -1,0 +1,8 @@
+dev_semeval_parids-labels.csv
+dont_patronize_me.py
+dontpatronizeme_categories.tsv
+dontpatronizeme_pcl.tsv
+dontpatronizeme_test.tsv
+train_semeval_parids-labels.csv
+__pycache__
+runs/
