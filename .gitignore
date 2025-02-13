@@ -6,3 +6,4 @@ dontpatronizeme_test.tsv
 train_semeval_parids-labels.csv
 __pycache__
 runs/
+results/

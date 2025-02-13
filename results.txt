@@ -1,0 +1,6 @@
+g
+Results for 2 - LLRD
+Date: 2025-02-13 14:15:11
+Validation F1 Score: 0.48
+Test F1 Score: 0.51
+---------------------------------
