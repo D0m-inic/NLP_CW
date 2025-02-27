@@ -15,3 +15,9 @@ Date: 2025-02-27 14:24:07
 Validation F1 Score: 0.56
 Test F1 Score: 0.57
 ---------------------------------
+
+Results for 5 - Ensemble with LLRD and Weighted Loss function
+Date: 2025-02-27 17:42:11
+Validation F1 Score: 0.57
+Test F1 Score: 0.55
+---------------------------------
